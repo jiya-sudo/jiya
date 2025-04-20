@@ -1,3 +1,3 @@
 # jiya
-#made some new changes
-#created an static clothes site
+made some new changes
+created an static clothes site
